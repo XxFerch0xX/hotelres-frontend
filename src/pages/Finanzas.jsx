@@ -74,3 +74,4 @@ export default function Finanzas() {
     </div>
   )
 }
+# Registro de gastos 
