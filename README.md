@@ -32,3 +32,4 @@ El frontend se levanta en `http://localhost:5173`.
 - Vite
 - React Router
 - Axios
+# Proyecto finalizado 
